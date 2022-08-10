@@ -1,5 +1,5 @@
 
-// Problem: https://practice.geeksforgeeks.org/problems/number-of-provinces/1
+// Problem: https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1?page=1&category[]=Heap&sortBy=submissions
 class Solution
 {
     public:
