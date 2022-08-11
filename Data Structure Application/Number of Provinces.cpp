@@ -15,7 +15,7 @@ class Solution {
             if(visited[i])continue;
             provinces++;
             
-            //the algroithm below is a simple dfs
+            //the algroithm below is a simple bfs
             queue<int> q;
             q.push(i);
             visited[i]==true;
